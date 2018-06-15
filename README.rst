@@ -74,6 +74,7 @@ executing ELF binaries compiled with a cross-compiler.
 - pydgin:  Library for describing instruction set simulators (ISS).
 - arm:     Pydgin ISS for executing ARMv5 binaries.
 - parc:    Pydgin ISS for executing PARC binaries.
+- riscv:   Pydgin ISS for executing RISC-V binaries.
 
 Please see the README files in each subdirectory for more information.
 
